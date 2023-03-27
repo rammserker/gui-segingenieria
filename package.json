@@ -1,0 +1,12 @@
+{
+    "name": "SEG UI",
+    "main": "ui/index.html",
+
+    "dependencies": {
+        "exceljs": "^4.3.0",
+        "highcharts-export-server": "^2.1.0",
+        "sharp": "^0.30.4",
+        "xml2js": "^0.4.23"
+    }
+}
+
